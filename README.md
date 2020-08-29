@@ -1,4 +1,4 @@
-# ninja-default
+# vue-cli-3
 
 ## Project setup
 ```
